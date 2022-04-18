@@ -1,4 +1,4 @@
-# Natural-Language-Processing
+# Natural-Language-Processing (OUTDATED // will update in May 2022)
 Work on Encoder Decoder Architecture with Attention and Beam Search
 Execution in TensorFlow 2.0.0_alpha
 Adapted to changed API's for Optimizer
